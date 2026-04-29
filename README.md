@@ -229,6 +229,5 @@ MSc Data Science | Utrecht, Netherlands
 ---
 
 ## Licence
-
-Code: MIT  
+  
 Data: Subject to original source licences — Eurostat CC BY 4.0, World Bank CC BY 4.0. See `data/raw/DATA_SOURCES.md`.
